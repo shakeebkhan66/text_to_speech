@@ -2,14 +2,11 @@
 
 A new Flutter application.
 
-## Getting Started
+## Picture
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/73787635/154827209-008786a6-ddab-4e7d-98eb-711949820e08.jpeg" width=200 height=150>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
